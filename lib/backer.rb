@@ -7,7 +7,7 @@ def initialize(name)
 end
 
 
-def backed_project(title)
+def backed_project(Project)
   @backed_projects << self
   
 end
