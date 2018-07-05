@@ -8,7 +8,7 @@ end
 
 
 def backed_project(title)
-  @backed_projects << self
+  @backed_projects << title
   
 end
 
