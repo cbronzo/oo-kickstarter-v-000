@@ -9,7 +9,7 @@ end
 
 def back_project(title, name)
   @backed_projects << title
-  @ << name
+  @backers << name
   
 end
 
